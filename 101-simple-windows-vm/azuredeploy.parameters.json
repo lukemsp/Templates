@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "lpstore01"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Pa$$w0rd1"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "lp3135"
+    },
+    "location":{
+      "value":"West US"
+    },
+    "sizeOfDiskInGB":{
+      "value":"20"
     }
   }
 }
